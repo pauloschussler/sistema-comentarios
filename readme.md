@@ -70,3 +70,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Instalação 
+
+Para o funcionamento do Sistema é necessária a criação da base de dados ´sistemacomentarios´, para então
+seerem importadas as informações e tabelas do banco de dados através do arquivo sistemacomentario.sql.
+Após ter sido feita esta alteração, basta copiar a pasta do projeto para dentro do diretório do XAMPP.
+Para acesso é utilizada Rota: /Inicio; O usuário para login no Sistema é paulojuniorpjs@hotmail.com, senha: 1234;
